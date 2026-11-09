@@ -1,0 +1,5 @@
+#Files that need to be ignored by Eclipse.
+.classpath
+.project
+*.class
+/bin/
